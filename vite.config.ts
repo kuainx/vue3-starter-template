@@ -15,14 +15,7 @@ export default defineConfig({
     tailwindcss(),
     AutoImport({
       vueTemplate: true,
-      imports: [
-        'vue',
-        'vue-router',
-        'pinia',
-        {
-          '@/lib/i18n': ['$t'],
-        },
-      ],
+      imports: ['vue', 'vue-router', 'pinia'],
       dts: './auto-imports.d.ts',
     }),
   ],
