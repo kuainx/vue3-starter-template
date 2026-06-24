@@ -1,3 +1,6 @@
+// oxlint-disable-next-line import/no-unassigned-import
+import 'tdesign-vue-next/es/style/index.css'
+
 import { createPinia } from 'pinia'
 import { createApp } from 'vue'
 
