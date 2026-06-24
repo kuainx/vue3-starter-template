@@ -1,0 +1,14 @@
+# install  <platform>  <scope>
+install  antigravity  local
+
+# --- Skills ---
+# github  skill  [name]  <owner/repo>  <path-or-dir>  [ref]
+
+github  skill  antfu/skills  skills/pinia
+github  skill  antfu/skills  skills/vue
+github  skill  antfu/skills  skills/vue-best-practices
+github  skill  antfu/skills  skills/vue-router-best-practices
+
+github  skill  vercel-labs/skills  skills/find-skills
+
+github  skill  wshobson/agents  plugins/frontend-mobile-development/skills/tailwind-design-system

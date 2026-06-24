@@ -1,0 +1,26 @@
+{
+  "github/skill/find-skills": {
+    "sha": "9a7d8acfbf29f9cced7fb5a504da1d65b484aed3",
+    "raw_url": "https://api.github.com/repos/vercel-labs/skills/contents/skills/find-skills?ref=9a7d8acfbf29f9cced7fb5a504da1d65b484aed3"
+  },
+  "github/skill/pinia": {
+    "sha": "a74f281a27dadc02397bc1a174b0f2c97531b6ae",
+    "raw_url": "https://api.github.com/repos/antfu/skills/contents/skills/pinia?ref=a74f281a27dadc02397bc1a174b0f2c97531b6ae"
+  },
+  "github/skill/tailwind-design-system": {
+    "sha": "cc37bfdd292ce520ba1c44df7a3a70d5f8137236",
+    "raw_url": "https://api.github.com/repos/wshobson/agents/contents/plugins/frontend-mobile-development/skills/tailwind-design-system?ref=cc37bfdd292ce520ba1c44df7a3a70d5f8137236"
+  },
+  "github/skill/vue": {
+    "sha": "a74f281a27dadc02397bc1a174b0f2c97531b6ae",
+    "raw_url": "https://api.github.com/repos/antfu/skills/contents/skills/vue?ref=a74f281a27dadc02397bc1a174b0f2c97531b6ae"
+  },
+  "github/skill/vue-best-practices": {
+    "sha": "a74f281a27dadc02397bc1a174b0f2c97531b6ae",
+    "raw_url": "https://api.github.com/repos/antfu/skills/contents/skills/vue-best-practices?ref=a74f281a27dadc02397bc1a174b0f2c97531b6ae"
+  },
+  "github/skill/vue-router-best-practices": {
+    "sha": "a74f281a27dadc02397bc1a174b0f2c97531b6ae",
+    "raw_url": "https://api.github.com/repos/antfu/skills/contents/skills/vue-router-best-practices?ref=a74f281a27dadc02397bc1a174b0f2c97531b6ae"
+  }
+}
